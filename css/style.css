@@ -1,0 +1,39 @@
+#countdown{
+
+    
+    color: rgb(208, 32, 32);
+    padding: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+#cards{
+display: none;
+
+
+}
+
+img {
+
+    max-width: 100%;
+}
+
+#loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.loder-con{
+    display: none;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.953);
+}
+
+img{
+max-width: 100%;
+}
